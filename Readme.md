@@ -3,6 +3,18 @@
 
   An util to query china province, city and district data.
 
+## How to use
+
+```javascript
+var china = require('china-province-city-district');
+// get all provinces
+var provinces = china.query();
+// get all citys for 陕西省
+var citys = china.query('陕西省');
+// get all districts for 咸阳市
+var districts = china.query('咸阳市');
+```
+
 ## License 
 
 (The MIT License)
