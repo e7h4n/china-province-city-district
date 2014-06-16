@@ -1,0 +1,18 @@
+{
+  "name": "china-province-city-district",
+  "version": "0.0.1",
+  "description": "An util to query china province, city and district data.",
+  "keywords": [],
+  "author": "perfectworks <perfectworks@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfectworks/china-province-city-district.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
