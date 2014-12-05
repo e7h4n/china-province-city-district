@@ -1,6 +1,6 @@
 {
   "name": "china-province-city-district",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An util to query china province, city and district data.",
   "keywords": [],
   "author": "perfectworks <perfectworks@gmail.com>",
